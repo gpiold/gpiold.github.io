@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gpiold.github.io/IsP/sitemap.IsP.gz
